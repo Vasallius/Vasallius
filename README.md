@@ -17,6 +17,20 @@ Here are some ideas to get you started:
 
 **`Highly Specialized Generalist (Developer/Trader/Creator)`**
 
-I'm a full-stack developer, currently pursuing my studies at UP Diliman. In addition to coding, I'm also a trader and a coach, leveraging my financial knowledge and expertise. I find joy in sharing my insights and helping others navigate the world of technology and finance. Catch me on my TikTok channel, where I share engaging content related to the financial markets. Let's connect and embark on this exciting journey together!
+I'm a full-stack developer, currently pursuing my studies at UP Diliman. In addition to coding, I'm also a trader and a coach, leveraging my financial knowledge and expertise. I find joy in sharing my insights and helping others navigate the world of technology and finance. Catch me on my [TikTok][tiktok] channel, where I share engaging content related to the financial markets. Let's connect and embark on this exciting journey together!
+
+
+   <p align="left">
+   <a href="https://www.tiktok.com/@traderkreios">
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/static/v1?label=Followers&message=21k&color=55960c&style=for-the-badge&labelColor=488207&logo=tiktok"/>
+     
+  
+   
+</p>
+
 
 ---
+
+[youtube]: https://youtube.com/fknight
+[tiktok]: https://www.tiktok.com/@traderkreios
+
