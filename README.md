@@ -54,9 +54,13 @@ I'm a full-stack developer, currently pursuing my studies at UP Diliman. In addi
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
-<br />
-<br />
-<br />
+<br/>
+
+## 📊 My Github Stats
+  <img align="left" alt="Vasallius' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vasallius&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+<br/>
+<br/>
 
 
 [youtube]: https://youtube.com/fknight
