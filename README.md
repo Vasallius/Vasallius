@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Vasallius/Vasallius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🏄‍♂️ Jed
+
+**`Highly Specialized Generalist (Developer/Trader/Creator)`**
+
+I'm a full-stack developer, currently pursuing my studies at UP Diliman. In addition to coding, I'm also a trader and a coach, leveraging my financial knowledge and expertise. I find joy in sharing my insights and helping others navigate the world of technology and finance. Catch me on my TikTok channel, where I share engaging content related to the financial markets. Let's connect and embark on this exciting journey together!
+
+---
