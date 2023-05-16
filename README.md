@@ -29,10 +29,16 @@ I'm a full-stack developer, currently pursuing my studies at UP Diliman. In addi
       <a href="https://github.com/Vasallius?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Vasallius?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
-        
----
 
-### 🧰 Languages and Tools
+## :space_invader: &nbsp;About Me
+
+- I'm currently taking up BS Computer Science at UP Diliman
+- I'm passionate about the financial markets and financial literacy
+- I teach people how to trade cryptocurrencies and forex at [TraderKreios](https://www.tiktok.com/@traderkreios)
+- Currently looking for internships!
+
+           
+## 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -49,6 +55,9 @@ I'm a full-stack developer, currently pursuing my studies at UP Diliman. In addi
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
 <br />
+<br />
+<br />
+
 
 [youtube]: https://youtube.com/fknight
 [tiktok]: https://www.tiktok.com/@traderkreios
