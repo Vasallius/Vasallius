@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 **`Highly Specialized Generalist (Developer/Trader/Creator)`**
 
+<!--
 I'm a full-stack developer, currently pursuing my studies at UP Diliman. In addition to coding, I'm also a trader and a coach, leveraging my financial knowledge and expertise. I find joy in sharing my insights and helping others navigate the world of technology and finance. Catch me on my [TikTok][tiktok] channel, where I share engaging content related to the financial markets. Let's connect and embark on this exciting journey together!
 
 <p align="left">
@@ -29,7 +30,7 @@ I'm a full-stack developer, currently pursuing my studies at UP Diliman. In addi
       <a href="https://github.com/Vasallius?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Vasallius?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
-
+-->
 ## :space_invader: &nbsp;About Me
 
 - I'm currently taking up BS Computer Science at UP Diliman
