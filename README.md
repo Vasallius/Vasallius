@@ -36,7 +36,7 @@ I'm a full-stack developer, currently pursuing my studies at UP Diliman. In addi
 - I'm currently taking up BS Computer Science at UP Diliman
 - I'm passionate about the financial markets and financial literacy
 - I teach people how to trade cryptocurrencies and forex at [TraderKreios](https://www.tiktok.com/@traderkreios)
-- Currently looking for internships!
+
    
  
 
